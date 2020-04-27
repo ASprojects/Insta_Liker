@@ -1,27 +1,34 @@
-{% extends "layout.html" %}
-{% block content %]
+{% block content %}
     <h2> Ustawienia </h2>
         <form method="POST" action="">
-            {{ form.hidden_tag() }}
+            {{ form.hidden_tag("Panczi") }}
             <fieldset>
-                <div class="form-group">
+                <div>
                     {{ form.username.label }}
-                    {{ form.username(size=30) }}
+                    <p>
+                    {{ form.username(size=50) }}
+                    </p>
                 </div>
-                <div class="form-group">
+                <div>
                     {{ form.password.label }}
-                    {{ form.password(size=30) }}
+                    <p>
+                    {{ form.password(size=50) }}
+                    </p>
                 </div>
-                <div class="form-group">
+                <div>
                     {{ form.hashtag.label }}
-                    {{ form.hashtag(size=30) }}
+                    <p>
+                    {{ form.hashtag(size=50) }}
+                    </p>
                 </div>
             </fieldset>
-            <div class="form-group">
+            <p></p>
+            <div>
                 {{ form.remember.label }}
                 {{ form.remember(size=12) }}
             </div>
-            <div class="form-group">
+            <p></p>
+            <div>
                 {{ form.submit(class="btn bnt-outline-info") }}
             </div>
         </form>

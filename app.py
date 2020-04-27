@@ -7,9 +7,10 @@ app.config['SECRET_KEY'] = "Panczi"
 def home():
     return render_template('Home.html')
 
+@app.route('/')
 @app.route('/instagram')
 def instagram():
-    form = LoginForm
+    form = LoginForm()
     return render_template("Template.html", form=form)
 
 if __name__ == '__main__':
