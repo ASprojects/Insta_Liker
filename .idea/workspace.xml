@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed08d5df-b221-413e-abf9-de932340a71c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1arEzPdXjhC6Af7Q5ZITc7f0BBR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.InstagramMain">
+    <configuration name="InstaBotScript" type="PythonConfigurationType" factoryName="Python">
+      <module name="InstagramBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\PyThon\AppData\Local\Programs\Python\Python37-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="InstagramMain" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="InstagramBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InstagramMain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.InstaBotScript" />
+      <item itemvalue="Python.InstagramMain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.InstagramMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed08d5df-b221-413e-abf9-de932340a71c" name="Default Changelist" comment="" />
+      <created>1587485573301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587485573301</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="129" y="67" width="1115" height="1013" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587663683805">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="129" y="67" width="1115" height="1013" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1587663683805" />
+    <state x="611" y="254" key="FileChooserDialogImpl" timestamp="1587558046206">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="611" y="254" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1587558046206" />
+    <state width="1672" height="126" key="GridCell.Tab.0.bottom" timestamp="1587665777351">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1672" height="126" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587665777351" />
+    <state width="1672" height="126" key="GridCell.Tab.0.center" timestamp="1587665777351">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1672" height="126" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587665777351" />
+    <state width="1672" height="126" key="GridCell.Tab.0.left" timestamp="1587665777351">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1672" height="126" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587665777351" />
+    <state width="1672" height="126" key="GridCell.Tab.0.right" timestamp="1587665777351">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1672" height="126" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587665777351" />
+    <state width="1354" height="253" key="GridCell.Tab.1.bottom" timestamp="1587500171494">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1354" height="253" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587500171494" />
+    <state width="1354" height="253" key="GridCell.Tab.1.center" timestamp="1587500171494">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1354" height="253" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587500171494" />
+    <state width="1354" height="253" key="GridCell.Tab.1.left" timestamp="1587500171494">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1354" height="253" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587500171494" />
+    <state width="1354" height="253" key="GridCell.Tab.1.right" timestamp="1587500171494">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1354" height="253" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587500171494" />
+    <state x="534" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1587924814916">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="534" y="45" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1587924814916" />
+  </component>
+</project>
