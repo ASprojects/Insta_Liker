@@ -750,3 +750,13 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 1588079729762	Marionette	WARN	TLS certificate errors will be ignored for this session
 [Parent 10740, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
 1588079747949	Marionette	INFO	Stopped listening on port 52783
+1588080737469	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PyThon\\AppData\\Local\\Temp\\rust_mozprofile.mLUmZNMxktXJ"
+1588080737905	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588080738380	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588080738381	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588080738381	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588080738381	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588080740587	Marionette	INFO	Listening on port 53073
+1588080740787	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588080803977	Marionette	INFO	Stopped listening on port 53073
