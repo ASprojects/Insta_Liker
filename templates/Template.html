@@ -1,7 +1,7 @@
 {% block content %}
     <h2> Ustawienia </h2>
-        <form method="POST" action="">
-            {{ form.hidden_tag("Panczi") }}
+        <form method="POST" action="/processing">
+            {{ form.hidden_tag("SECRET") }}
             <fieldset>
                 <div>
                     {{ form.username.label }}

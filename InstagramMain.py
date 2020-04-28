@@ -44,6 +44,6 @@ class InstaBot:
             except Exception as ex:
                 time.sleep(60)
 
-adam = InstaBot('email', 'haslo')
-adam.login()
-adam.like_pic('tag')
+###adam = InstaBot('email', 'haslo')
+###adam.login()
+###adam.like_pic('hashtag')
