@@ -760,3 +760,8 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 1588080740587	Marionette	INFO	Listening on port 53073
 1588080740787	Marionette	WARN	TLS certificate errors will be ignored for this session
 1588080803977	Marionette	INFO	Stopped listening on port 53073
+1594891819705	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PyThon\\AppData\\Local\\Temp\\rust_mozprofile.1Rhdb7In8455"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594891822893	Marionette	INFO	Listening on port 50817
+1594891822963	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594891835116	Marionette	INFO	Stopped listening on port 50817
