@@ -8,4 +8,3 @@ class LoginForm(FlaskForm):
     hashtag = StringField("Hasztag:", validators=[DataRequired()])
     remember = BooleanField("Nie zaznaczaj tego")
     submit = SubmitField("Do dziela!")
-

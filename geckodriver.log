@@ -765,3 +765,20 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 1594891822893	Marionette	INFO	Listening on port 50817
 1594891822963	Marionette	WARN	TLS certificate errors will be ignored for this session
 1594891835116	Marionette	INFO	Stopped listening on port 50817
+1598021810964	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PyThon\\AppData\\Local\\Temp\\rust_mozprofile.WVl8J7pfPZ55"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1598021814026	Marionette	INFO	Listening on port 49229
+1598021814193	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2620, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1598021825377	Marionette	INFO	Stopped listening on port 49229
+1598118965715	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PyThon\\AppData\\Local\\Temp\\rust_mozprofile.SaYkJckrxSEg"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598118968821	Marionette	INFO	Listening on port 55217
+1598118969014	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5908, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 5908, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1598118983336	Marionette	INFO	Stopped listening on port 55217

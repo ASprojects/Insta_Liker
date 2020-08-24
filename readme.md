@@ -1,0 +1,3 @@
+Prosty bot do 'lajkowania' zdjęć na Instagramie, stworzony na podstawie projektu Dev Eda - https://www.youtube.com/watch?v=7ovFudqFB0Q
+Pierwszy projekt, który pozwolił mi się zapoznać z podstawami Pythona i webscrapingu.
+Względem Twitterowego oryginału projekt ten został rozbudowany o podstawowy interfejs, pozwalający użytkownikowi logować się i zmieniać temat przewodni zdjęć (hashtaga) bez konieczności otwierania kodu.
